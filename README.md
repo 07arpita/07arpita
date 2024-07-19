@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arpita
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning frontend and cpp
-- 💞️ I’m looking to collaborate on technical projects to gain insights
 - 📫 How to reach me:: @arpitamaurya2707@gmail.com
 
 <!---
