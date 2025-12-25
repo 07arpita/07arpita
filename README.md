@@ -1,10 +1,6 @@
-# Hi there, I'm [Arpita Maurya] 
+# Hi there, I'm Arpita Maurya
 
 I am a **Machine Learning** and **AI Enthusiast** driven by a deep fascination with the intersection of human intuition and artificial intelligence. My work is rooted in a problem-solving first approach, where technology serves as a tool to navigate and simplify the complexities of the modern digital landscape.
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[07arpita]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[07arpita]&layout=compact&theme=radical)
 
 ---
 
