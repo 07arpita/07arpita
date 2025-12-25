@@ -1,9 +1,46 @@
-- 👋 Hi, I’m @arpita
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning frontend and cpp
-- 📫 How to reach me:: @arpitamaurya2707@gmail.com
+# Hi there, I'm [Arpita Maurya] 
 
-<!---
-07arpita/07arpita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **Machine Learning** and **AI Enthusiast** driven by a deep fascination with the intersection of human intuition and artificial intelligence. My work is rooted in a problem-solving first approach, where technology serves as a tool to navigate and simplify the complexities of the modern digital landscape.
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[07arpita]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[07arpita]&layout=compact&theme=radical)
+
+---
+
+### 🚀 Featured Project: HireEZ
+**A Full-Stack AI-Powered Hiring Platform**
+* **Frontend:** Next.js 14, React, TypeScript, Tailwind CSS, Shadcn UI.
+* **AI Intelligence:** Integrated with **Hugging Face API** and **Vapi AI** for automated candidate screening.
+* **Backend & DB:** Supabase (Database & Storage), Custom Auth, Sonner for real-time notifications.
+* **Analytics:** Visualized data using **Chart.js** and automated communication via **Resend/Nodemailer**.
+
+### 📚 Machine Learning: Book Recommender System
+**End-to-End Recommendation Engine**
+* **Engine:** Implemented **Collaborative Filtering** using **Cosine Similarity** to suggest books based on user preferences.
+* **EDA:** Performed extensive data cleaning on the Book-Crossing dataset, managing sparse matrices and high-dimensional data.
+* **Stack:** Python, Pandas, NumPy, Scikit-Learn, and **Flask** for the web interface.
+
+### 🌿 Deep Learning: Cassava Leaf Disease Classification
+**Computer Vision - Kaggle Competition**
+* Developed a Deep Learning model to identify diseases in Cassava plants to help improve agricultural yields.
+* Implemented **CNN architectures** and advanced **Image Preprocessing** techniques.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | Next.js 14, React, TypeScript, Tailwind CSS |
+| **Data Science** | Python (Pandas, NumPy, Scikit-Learn), EDA, Matplotlib |
+| **AI/ML** | Hugging Face API, Vapi AI, Computer Vision, Collaborative Filtering |
+| **Backend/DB** | Flask, Supabase (PostgreSQL), Custom Auth |
+| **Design/Dev** | PyCharm, Git, Kaggle, Chart.js |
+
+---
+
+### 📫 How to reach me
+- 📧 **Email:** [arpitamaurya2707@gmail.com](mailto:arpitamaurya2707@gmail.com)
+
+*"Turning complex data into simple, actionable solutions."*
